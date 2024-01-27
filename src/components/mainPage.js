@@ -13,6 +13,10 @@ function MainPage() {
                     </div>
                 </div>
             </div>
+            <div id='register' data-aos="zoom-in">
+                <h1>Register Now!!</h1>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe73kFa-uJIaAmQu3LM2P04JczRfkcjMU0nocsWHiEO-4YXYQ/viewform?usp=sf_link"><button>Register!</button></a>
+            </div>
             <div id="about">
                 <h1>FAQs</h1>
                 <div className="points" data-aos='fade-left'>
@@ -32,10 +36,7 @@ function MainPage() {
                     <p>Ans: PCB is basically the "Printed Circuit Design". With PCB you can design your own simplified and permanent electronic circuit .So come and have a lifetime experience of designing your own first PCB!</p>
                 </div>
             </div>
-            <div id='register' data-aos="zoom-in">
-                <h1>Register Now!!</h1>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe73kFa-uJIaAmQu3LM2P04JczRfkcjMU0nocsWHiEO-4YXYQ/viewform?usp=sf_link"><button>Register!</button></a>
-            </div>
+            
         </>
     )
 }
