@@ -1,5 +1,5 @@
 import React from 'react'
-import videoBg from './vidBg.mp4';
+// import videoBg from './vidBg.mp4';
 
 function MainPage() {
     return (

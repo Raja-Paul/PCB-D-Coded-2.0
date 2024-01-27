@@ -1,10 +1,10 @@
 import React from 'react'
-import { useEffect, useState } from 'react';
-import { motion } from 'framer-motion';
+// import { useEffect, useState } from 'react';
+// import { motion } from 'framer-motion';
 import Navbar from './Nav/navbar.js'
 import Footer from './Footer/footer.js'
 import AOS from 'aos'
-import drone from './drone_cursor.png'
+// import drone from './drone_cursor.png'
 import 'aos/dist/aos.css'
 import MainPage from './mainPage.js';
 
